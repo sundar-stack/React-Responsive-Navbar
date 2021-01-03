@@ -1,0 +1,6 @@
+.home{
+    background: url('../../images/img2.jpg') center no-repeat;
+    margin-top:-65px;
+    background-size: cover;
+    height: 100vh;
+}
